@@ -113,6 +113,11 @@ section {
           #mainNav.navbar-shrink .navbar-nav > li > a:focus:hover {
             color: #5A8DC3; } }
 
+a.lang {
+  position: fixed;
+  top: 5px;
+  right: 5px; }
+
 header.masthead {
   position: relative;
   width: 100%;
